@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LocationApp</string>
+    <string name="task_completed">Task #1 was successfully completed </string>
+    <string name="permission_rationale">Permission Required for accesing functionality</string>
+    <string name="ok">Ok</string>
+    <string name="start_location_update">START LOCATION UPDATE</string>
+    <string name="stop_location_update">STOP LOCATION UPDATE</string>
+    <string name="permission_denied_explanation">permission denied</string>
+    <string name="settings">setting</string>
+    <string name="location_updated">Location Updated: %1$s</string>
+    <string name="launch_activity">MY ACTIVITY</string>
+    <string name="remove_location_updates">REMOVE UPDATE</string>
+    <!--Hacky way to get Firebase to work. . -->
+    <string name="default_web_client_id" translatable="false">276990236266-7uiq20sl3qjis869jcjvr3k01uvc1131.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">276990236266</string>
+    <string name="google_app_id" translatable="false">1:276990236266:android:232d11699f97700e</string>
+    <string name="google_api_key" translatable="false">AIzaSyD9DmVL55xNmK33bYL6aKQcapGidH5vbfM</string>
+</resources>
